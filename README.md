@@ -1,0 +1,1 @@
+# Onestop_platform_for_Next.js
